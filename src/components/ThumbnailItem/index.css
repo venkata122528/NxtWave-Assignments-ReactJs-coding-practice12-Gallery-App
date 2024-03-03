@@ -1,0 +1,23 @@
+/* Write your code here. */
+.eachThumbnailList {
+  list-style-type: none;
+}
+
+.eachThumbnailImage {
+  height: 60px;
+  width: 60px;
+  border-radius: 10px;
+  opacity: 0.5;
+}
+
+.selectedThumbnailImage {
+  height: 60px;
+  width: 60px;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+}

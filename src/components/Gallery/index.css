@@ -1,0 +1,25 @@
+/* Write your code here. */
+.mainContainer {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.thumbnailsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  height: 75%;
+  margin-bottom: 20px;
+}
+
+.mainImage {
+  height: 70%;
+}
